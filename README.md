@@ -1,5 +1,5 @@
 # 💫 About Me:
-Building DSA-focused projects (C/C++) and frontend web apps (HTML, CSS, JavaScript) with clean UI and logical problem-solving<br><br>Projects involving web development, beginner AI applications, or open-source contributions<br><br>Improving system design basics, writing scalable code, and industry level best practices<br><br>Data Structures & Algorithms in C (core focus), JavaScript, HTML, CSS(Beginner), Java, Python(still learning) and problem-solving for technical interviews<br><br>Turning coffee into code ☕<br><br>I write code, break it, fix it, and call it “learning”<br>
+Building DSA-focused projects (C) and frontend web apps (HTML, CSS, JavaScript) with clean UI and logical problem-solving<br><br>Projects involving web development, beginner AI applications, or open-source contributions<br><br>Improving system design basics, writing scalable code, and industry level best practices<br><br>Data Structures & Algorithms in C (core focus), JavaScript, HTML, CSS(Beginner), Java, Python(still learning) and problem-solving for technical interviews<br><br>Turning coffee into code ☕<br><br>I write code, break it, fix it, and call it “learning”<br>
 
 
 ## 🌐 Socials:
